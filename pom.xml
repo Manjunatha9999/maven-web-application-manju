@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.20.97:8081/repository/manju-release/</url>
+	      <url>http://3.111.42.80:8081/repository/manju-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.20.97:8081/repository/maven-artifact/</url>
+	      <url>http://3.111.42.80:8081/repository/maven-artifact/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
