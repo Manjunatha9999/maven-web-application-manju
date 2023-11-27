@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.111.42.80:8081/repository/manju-release/</url>
+	      <url>http://65.2.189.111:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
